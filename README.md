@@ -1,2 +1,2 @@
-# netflix-intro-lucas
+# Netflix-Intro
 Netflix Animation Intro
